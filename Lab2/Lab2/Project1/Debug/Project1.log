@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: unresolved external symbol _WinMainCRTStartup
+D:\A- College\CSC3210\Lab2\Lab2\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
